@@ -1,7 +1,7 @@
 // 如果不使用BoxJS配置，可以在这里修改
 let config = {
   username: "hoavokhuyet", // 用户名
-  token: "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", // token
+  token: "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", // token
 };
 
 // load user prefs from box
