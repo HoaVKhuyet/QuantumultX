@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/dcpengx/QuantumultX/main/rewrite/github-privat
 // 如果不使用BoxJS配置，可以在这里修改
 let config = {
   username: "HoaVKhuyet", // 用户名
-  token: "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", // token
+  token: "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", // token
 };
 
 // load user prefs from box
