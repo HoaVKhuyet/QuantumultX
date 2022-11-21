@@ -1,8 +1,0 @@
-#!name=Github Private
-#!desc=Access Github Private 
-
-[MITM]
-hostname = %APPEND% raw.githubusercontent.com, gist.githubusercontent.com
-
-[Script]
-Github Private = type=http-request, requires-body=0, pattern=^https?:\/\/(raw|gist)\.githubusercontent.com, script-path=https://raw.githubusercontent.com/HoaVKhuyet/QuantumultX/main/Rewrite/js/github-private-repo.js?token=GHSAT0AAAAAAB3MZJMYAZEOWT6VL7TL7EOGY33IJWA
